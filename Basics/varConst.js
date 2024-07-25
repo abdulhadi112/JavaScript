@@ -1,3 +1,4 @@
+// LECTURE 1
 const accountId = 145789
 let accountEmail = "abdulhadi@google.com"
 var accountPassword = "1234"
